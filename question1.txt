@@ -1,0 +1,28 @@
+There are various types of operator in dart following are mention below.
+
+1) Airthmetic operator
+2) Equality and Relational operator
+3) Logical operator
+
+*AIRTHMETIC OPERATOR
++Add        ---> (a+b)  --> (3+2) = 3
+-Sub        ---> (a-b)  --> (3-2) = 1
+*Mul        ---> (a*b)  --> (3*2) = 6
+/Divide     ---> (a/b)  --> (3/2) = 1.5
+~Tilde      ---> (a~/b) --> (3~/2)= 1
+%Modulus    ---> (a%b)  --> (3%2) = 1
+++Increment ---> (a++)  --> (3++) = 4
+--Decrement ---> (a--)  --> (3--) = 2
+
+*EQUALITY AND RELATIONAL OPERATOR
+>   Greaterthan                 (A>B)   --> False
+<   Lessthan                    (A<B)   --> True
+>=  Greaterthan or equal to     (A>=B)  --> False
+<=  Lessthan or equal to        (A<=B)  --> True
+==  Equality                    (A==B)  --> False
+!=  Not equal                   (A!=B)  --> True
+
+*LOGICAL OPERATOR
+&& AND      --> (A > 10 && B > 10) --> False
+|| OR       --> (A > 10 || B > 10) --> True
+! NOT       --> !(A > 10)          --> True

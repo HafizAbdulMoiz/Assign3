@@ -1,0 +1,22 @@
+*sublist():
+*This method returns a new list containing elements from index between start and end. Note that end element is exclusive while start is inclusive.
+ *var myList= [1,2,3,4,5];
+ *print(myList.sublist(1,3)); // [2,3]
+
+
+ *shuffle():
+*This method re-arranges order of the elements in the given list randomly.
+ *myList.shuffle();
+ *print('$myList'); // [5,4,3,1,2]
+
+
+ *getRange():
+ *This method returns elements from specified range [start] to [end] in same order as in the given list.
+ *var myList = [1, 2, 3, 4, 5];
+ *print(myList.getRange(1,4)); // (2, 3, 4)
+
+ *skip():
+*This method ignores the elements starting from index 0 till count and returns remaining iterable from given list.
+*print(sportsList.skip(2));  // (football)
+
+*clear: clears the given list.

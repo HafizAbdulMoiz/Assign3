@@ -1,0 +1,6 @@
+There are following data types in dart
+
+Int      --> 12;
+Double   --> 12.5
+String   --> "WOW"
+Boolean  --> True & False

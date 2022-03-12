@@ -1,0 +1,14 @@
+*Legal Variables
+firstName
+first_Name
+first1
+firstName123
+location_first2
+
+*IlLegal Variables
+
+first Name
+1first
+True
+$firstName
+firstName 31
